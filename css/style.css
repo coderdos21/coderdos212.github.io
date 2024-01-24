@@ -1,0 +1,71 @@
+
+
+
+
+  
+ 
+  nav li a {
+
+    padding: 20px;
+    color: #fff;
+    text-decoration: none;
+  }
+  nav  li:hover {
+    background: #eca023;
+    padding: 20px;
+
+  }
+
+  /* -----------------FUENTES----------------- */
+
+  h1{
+    float: left;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 33px;
+    font-weight: 300;
+    color: #eca023;
+
+  }
+  h3{
+    float: left;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 22px;
+    font-weight: 300;
+    color: #000;
+
+  }
+
+
+
+ /* -----------------cajas de texto----------------- */
+  
+  #caja{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    width: 400px;
+    height: 400px;
+    background-color: #eca023;
+    margin: 20px, 20px, 20px, 20px, ;
+    padding: 20px 20px, 20px, 20px,;
+}
+   #caja {
+text-align: center;
+line-height: 60px;
+
+    }
+
+    p {
+        font-family: 'Open Sans';
+        font-size: 18px;
+        color: #000;
+        line-height: 22px;
+        margin-bottom: 22px;
+        }
+
+        #boton {
+            background-color: #ccc;
+            color: #fff;
+            width: 100px;
+            padding: 20px;
+            border: 1px solid #000;
+            border-radius: 5px;
+            }
